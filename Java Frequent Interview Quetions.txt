@@ -1,0 +1,103 @@
+OOPS:-
+----------------
+
+1. What is Inheritance and Explain its types
+2. What is the difference between  Method Overloading and Overriding
+3. What is Compile and Run time polymorphism
+4. Can we able to achive multiple inheritance in Java? If yes How? if No Why?
+5. What is Dynamic despatching?
+6. What is Up and Down castring?
+7. What is the difference between Abstract Class and Interface
+8. Why do we need to go for Abstraction?
+9. What is Encapsulation?
+10. Why Encapsulation?
+11. How to Acheive Encapsulation?
+
+Constructor:-
+------------------------
+
+1. What is Constructor?
+2. Why do we need Constructor?
+3. What is Constructor Overloading?
+4. What is Constructor Chaining?
+5. Can we make Constructor as Private? If yes what will happen? If no Why?
+6. What is the difference between this and super?
+
+Static:-
+-----------------------
+
+1. What is static keyword? Where we can apply?
+2. What is static block?
+3. What is static import?
+4. Can we use non static variable inside the static method?
+5. can we use static variable inside the non static method?
+6. Can we overload static method?
+7. Can we override the static method?
+8. Where static will be loaded?
+9. Expain the main method?
+
+Array:-
+-----------------------
+
+1. What is Array?
+2. Why do we need Array?
+3. How to iterate the array?
+4. What are the drawbacks in Array?
+5. What is the difference between Array and Arrays.
+
+String:-
+-------------------------
+
+1. What is String?
+2. What is String pool?
+3. What is String object?
+4. What is String literals?
+5. What is the difference between StringBuffer and StringBuilder?
+6. Why String is Immutable Object?
+7. What is the difference between String and StringBuffer?
+8. Give me few examples of Immutable and Mutable classes in Java.
+
+
+Collection:-
+---------------------------
+
+1. What is Collection Framework?
+2. What is Collection
+3. What is Collections
+4. Why we need Collection?
+5. What is the difference between List and Set
+6. What is the difference between Collection and List
+7. What is the difference between Collection and Set
+8. How to implement List and Set?
+9. What kind of polymorphism applied in List<E> list = new ArrayList<>();
+10. What is the difference between ArrayList vs Vector
+11. What is the difference between ArrayList vs LinkedList
+12 What is the difference between ArrayList vs Array
+13 What is the difference between HashSet vs LinkedHashSet vs TreeSet
+14. What is the difference between HashMap vs LinkedHashMap vs TreeMap
+15. What is the difference between HashMap vs HashTable
+16. What is map? Why do we need it?
+17. What is Wrapper Class?
+18. What is Generics?
+19. Can Collection supports Primitive Type inside the Generics?
+20. Explain Collecion Hierarchy?
+
+Exception Handling:-
+-------------------------
+
+1. What is Exception
+2. Why do we need to go Exception?
+3. Tell me the types of exception.
+4. Explain Exception hierarchty.
+5. What is the difference between Exception and Error.
+6. How to handle Exception.
+7. Can we use try without catch?
+8. Can we use multiple try with single catch?
+9. What is the difference between throw and throws.
+10. What is the difference between final, finally and finalize?
+
+
+
+
+
+
